@@ -42,7 +42,10 @@ body
     font-size: 20px;
 }
 
-#post{background:#fff;padding:1em}
+#post{
+background:#fff;
+padding:1em
+}
 
 #footer {
     background:#777;
